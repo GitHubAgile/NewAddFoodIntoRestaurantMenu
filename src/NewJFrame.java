@@ -213,6 +213,7 @@ public class NewJFrame extends javax.swing.JFrame {
         }else{
             boolean check = true;
             boolean existofdecimalpoint = false;
+            boolean shitthing = false;
             for(int i = 0;i < jtfPrice.getText().length();i++){
                 if(!(Character.isDigit(jtfPrice.getText().charAt(i))) && jtfPrice.getText().charAt(i) == '.' && existofdecimalpoint == true){
                     check = false;

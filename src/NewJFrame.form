@@ -82,10 +82,8 @@
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                           <Component id="jbtBrowse" pref="42" max="32767" attributes="0"/>
-                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                              <Component id="jlblItemImage" pref="42" max="32767" attributes="0"/>
-                              <Component id="jtfItemImage" max="32767" attributes="0"/>
-                          </Group>
+                          <Component id="jlblItemImage" pref="42" max="32767" attributes="0"/>
+                          <Component id="jtfItemImage" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
